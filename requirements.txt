@@ -1,0 +1,6 @@
+llama3_package
+llama-cpp-python
+flask
+flask-openapi3[swagger,redoc,rapidoc,rapipdf,scalar,elements]
+pydantic
+requests
